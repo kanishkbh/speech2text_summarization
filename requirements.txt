@@ -1,0 +1,6 @@
+wave     
+os       
+pyaudio  
+git+https://github.com/openai/whisper.git # refer https://github.com/openai/whisper/discussions/251
+openai   
+streamlit
