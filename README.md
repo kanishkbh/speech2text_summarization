@@ -1,12 +1,10 @@
 # Speech2Text_Summarization
 
 This is a hobby project that aims to provide an easy-to-use web app that takes audio input from the user, transcribes it, and gives a response based on the user's prompt. 
-The transcription is done using [whisper](https://github.com/openai/whisper) and the response is generated using GPT accessed through [OpenAI API](https://platform.openai.com/docs/introduction). The GUI is built using [Streamlit](https://streamlit.io/).
+The transcription is done using [whisper](https://github.com/openai/whisper) and the response is generated using GPT accessed through [OpenAI API](https://platform.openai.com/docs/api-reference/introduction). The GUI is built using [Streamlit](https://streamlit.io/).
 
 ## Potential Applications
-This app can be used for any purpose that involves giving a response based on spoken input. One example where it could be particularly useful 
-is to speak your thoughts and get a summary of it. This could be useful for people who have trouble writing down their thoughts.
-
+This app can be used for various purposes that require generating responses from spoken input. For example, use it to vocalize your thoughts and receive a summarized version. This application benefits individuals who find it challenging to articulate their thoughts in writing.
 
 
 ## Getting Started
@@ -36,4 +34,6 @@ You can get your API key from [here](https://help.openai.com/en/articles/4936850
 ## Usage
 1. Run the app: `streamlit run app.py`.
 2. Open your web browser and navigate to the URL displayed in the terminal (usually http://localhost:8501).
-3. Follow the instructions on the web app to use it.
+3. The web app shows instructions to get started.  
+
+Enjoy!
